@@ -1,8 +1,12 @@
 ---
 title: "dhoinowski3.github.io"
+image: media/zach.png
+toc: false
+about: 
+  template: broadside
 ---
 
-This is a Quarto website.
+This is not a picture of me. That is a picture of Zach Hill. Learn more about him here: <https://en.wikipedia.org/wiki/Zach_Hill>
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
