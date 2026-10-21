@@ -1,9 +1,15 @@
 ---
-title: "dhoinowski3.github.io"
+title: "Daniel Hoinowski"
 image: media/zach.png
 toc: false
 about: 
-  template: broadside
+  template: solana
+  image-shape: round
+  image-width: 10em
+  links: 
+    - icon: github
+      href: https://github.com/dhoinowski3
+      target: blank
 ---
 
 This is not a picture of me. That is a picture of Zach Hill. Learn more about him here: <https://en.wikipedia.org/wiki/Zach_Hill>
