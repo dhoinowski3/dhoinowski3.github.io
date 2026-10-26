@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a current sophomore at Chaminade University of Honolulu, majoring in computer science and minoring in data science. From a young age, I was interested in computers and their inner workings, which was supported by my father, a software engineer. Since then, I have studied several different coding languages like C#, Java, Javascript, C++, Python, as well as more data-orientated languages like SQL and R."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Daniel Hoinowski",
     "section": "",
-    "text": "This is not a picture of me. That is a picture of Zach Hill. Learn more about him here: https://en.wikipedia.org/wiki/Zach_Hill\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is the personal page of Daniel Hoinowski. Here you will find some minor information about myself as well as my resume.\nThis is not a picture of me. That is a picture of Zach Hill. Learn more about him here: https://en.wikipedia.org/wiki/Zach_Hill"
   },
   {
     "objectID": "resume.html",
@@ -19,5 +19,33 @@
     "title": "Resume",
     "section": "",
     "text": "Download PDF file."
+  },
+  {
+    "objectID": "about.html#summary",
+    "href": "about.html#summary",
+    "title": "About",
+    "section": "",
+    "text": "I am a current sophomore at Chaminade University of Honolulu, majoring in computer science and minoring in data science."
+  },
+  {
+    "objectID": "about.html#who-i-am",
+    "href": "about.html#who-i-am",
+    "title": "About",
+    "section": "",
+    "text": "I am a current sophomore at Chaminade University of Honolulu, majoring in computer science and minoring in data science. From a young age, I was interested in computers and their inner workings, which was supported by my father, a software engineer. Since then, I have studied several different coding languages like C#, Java, Javascript, C++, Python, as well as more data-orientated languages like SQL and R."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nShould you wish to contact me, you can email me here: jimcambien@gmail.com"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Daniel Hoinowski",
+    "section": "",
+    "text": "This is the personal page of Daniel Hoinowski. Here you will find some minor information about myself as well as my resume.\nThis is not a picture of me. That is a picture of Zach Hill. Learn more about him here: https://en.wikipedia.org/wiki/Zach_Hill"
   }
 ]

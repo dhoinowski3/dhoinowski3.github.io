@@ -12,10 +12,8 @@ about:
       target: blank
 ---
 
+## Welcome
+
+This is the personal page of Daniel Hoinowski. Here you will find some minor information about myself as well as my resume.
+
 This is not a picture of me. That is a picture of Zach Hill. Learn more about him here: <https://en.wikipedia.org/wiki/Zach_Hill>
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
