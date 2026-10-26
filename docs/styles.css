@@ -1,1 +1,103 @@
 /* css styles */
+
+/* ---- header text ---- */
+
+/* h1: gradient text.
+   the gradient is painted as a *background*, then clipped to the
+   shape of the letters. the text itself is made transparent so the
+   gradient shows through. */
+h1 {
+  background: linear-gradient(90deg, orange, hotpink, purple, black); /* direction, then colors left → right */
+  -webkit-background-clip: text;   /* older Safari/Chrome need the -webkit- prefix */
+  background-clip: text;           /* standard version */
+  color: transparent;              /* hide the text color so the gradient is visible */
+}
+
+/* h2: green text with a soft drop shadow and a Google Font.
+   NOTE: 'Pacifico' only works if the font is loaded in _quarto.yml
+   (include-in-header). if it isn't loaded, the browser falls back
+   to the generic 'cursive' font. */
+h2 {
+  color: green;
+  font-style: italic;
+  text-shadow: 2px 2px 4px gray;   /* x-offset, y-offset, blur, color */
+  font-family: 'Arial', cursive;
+}
+
+/* h3: black italic text */
+h3 {
+  color: black;
+  font-style: italic;
+}
+
+/* h3 on hover: a pink glow.
+   No x/y offset (0 0) means the shadow spreads evenly, like a glow. */
+h3:hover {
+  text-shadow: 0 0 8px hotpink;
+}
+
+
+/* ---- body text ---- */
+
+/* all paragraph text is orange */
+p {
+  color: black;
+}
+
+/* page background color */
+body {
+  background-color: antiquewhite;
+}
+
+/* ---- lists ---- */
+ol, ul, ul p {
+  color: blue;
+  font-weight: bold;
+}
+
+
+/* ---- links
+  order matters! Use "LoVe HAte": :link, :visited, :hover, :active.
+  If :visited came after :hover, visited links would never change
+  color on hover. */
+
+/* default link color */
+a {
+  color: blue;
+}
+
+/* links that have already been clicked */
+a:visited {
+  color: purple;
+}
+
+/* Mouse over a link: turn pink and remove the underline */
+a:hover {
+  color: pink;
+  text-decoration: none;
+}
+
+
+/* ---- navbar ---- */
+
+/* navbar backgroun color
+   if this doesn't take effect, the theme may be winning. try adding
+   !important ---- */
+/* .navbar {
+/*   background-color: grey;
+/* }
+
+/* Text and links inside the navbar */
+.navbar a, .navbar p {
+  color: yellow;
+  font-weight: bold;
+}
+
+
+/* ---------- fun extras ---------- */
+
+/* colors used when someone highlights text with their mouse */
+::selection {
+  background-color: hotpink;
+  color: white;
+}
