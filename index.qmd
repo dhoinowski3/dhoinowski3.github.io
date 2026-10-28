@@ -10,10 +10,15 @@ about:
     - icon: github
       href: https://github.com/dhoinowski3
       target: blank
+    - icon: twitter
+      href: https://x.com/d74802?s=11
+      target: blank
 ---
 
 ## Welcome
 
 This is the personal page of Daniel Hoinowski. Here you will find some minor information about myself as well as my resume.
+
+Currently, there is not much here, as this website is a work in progress. More will come soon.
 
 This is not a picture of me. That is a picture of Zach Hill. Learn more about him here: <https://en.wikipedia.org/wiki/Zach_Hill>

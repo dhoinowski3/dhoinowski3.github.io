@@ -5,8 +5,8 @@ toc: false
 
 ## Who I Am
 
-I am a current sophomore at Chaminade University of Honolulu, majoring in computer science and minoring in data science. From a young age, I was interested in computers and their inner workings, which was supported by my father, a software engineer. Since then, I have studied several different coding languages like C#, Java, Javascript, C++, Python, as well as more data-orientated languages like SQL and R.
+I am a current sophomore at Chaminade University of Honolulu, aiming to complete a Bachelor's degree in computer science, as well as a minor in data science. From a young age, I was interested in computers and their inner workings, which was supported by my father, a software engineer. Since then, I have studied several different coding languages like C#, Java, Javascript, C++, Python, as well as more data-orientated languages like SQL and R.
 
 ## Contact
 
-Should you wish to contact me, you can email me here: [jimcambien\@gmail.com](mailto:jimcambien@gmail.com)
+Should you wish to contact me, you can email me here: [daniel.hoinowski\@student.chaminade.edu](mailto:daniel.hoinowski@student.chamiande.edu).

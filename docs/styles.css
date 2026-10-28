@@ -7,7 +7,7 @@
    shape of the letters. the text itself is made transparent so the
    gradient shows through. */
 h1 {
-  background: linear-gradient(90deg, orange, hotpink, purple, black); /* direction, then colors left → right */
+  background: linear-gradient(orange); /* direction, then colors left → right */
   -webkit-background-clip: text;   /* older Safari/Chrome need the -webkit- prefix */
   background-clip: text;           /* standard version */
   color: transparent;              /* hide the text color so the gradient is visible */
@@ -18,9 +18,9 @@ h1 {
    (include-in-header). if it isn't loaded, the browser falls back
    to the generic 'cursive' font. */
 h2 {
-  color: green;
+  color: blue;
   font-style: italic;
-  text-shadow: 2px 2px 4px gray;   /* x-offset, y-offset, blur, color */
+  /* text-shadow: 2px 2px 4px gray; */   /* x-offset, y-offset, blur, color */
   font-family: 'Arial', cursive;
 }
 
@@ -83,13 +83,13 @@ a:hover {
 /* navbar backgroun color
    if this doesn't take effect, the theme may be winning. try adding
    !important ---- */
-/* .navbar {
-/*   background-color: grey;
-/* }
+.navbar {
+  background-color: grey;
+  }
 
 /* Text and links inside the navbar */
 .navbar a, .navbar p {
-  color: yellow;
+  color: skyblue;
   font-weight: bold;
 }
 
