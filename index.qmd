@@ -3,7 +3,7 @@ title: "Daniel Hoinowski"
 image: media/zach.png
 toc: false
 about: 
-  template: solana
+  template: jolla
   image-shape: round
   image-width: 10em
   links: 
