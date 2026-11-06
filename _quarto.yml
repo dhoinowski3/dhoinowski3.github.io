@@ -10,6 +10,8 @@ website:
         text: Home
       - about.qmd
       - resume.qmd
+      - href: http://dhoinowski3.github.io/dashboards
+        text: Dashboard Projects
 
 format:
   html:
